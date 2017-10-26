@@ -1,1 +1,2 @@
-# kattis
+# kattis solutions 
+I occassionally solve competitive programming contest during my free time. There are many ways to solve each problem; Hopefully some of you will find these solutions useful to grasp conceptual ideas.
